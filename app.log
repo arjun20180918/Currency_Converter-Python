@@ -1,0 +1,745 @@
+INFO:root:[User:Nagarjuna][2023-11-07 19:06:50]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 19:06:55]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 19:06:59]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 19:07:04]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 19:07:09]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 19:07:13]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 19:07:18]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 19:07:23]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 19:07:27]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 19:07:32]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 19:07:36]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 19:07:41]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 19:07:46]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 19:07:50]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 19:07:55]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 19:07:59]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 19:08:04]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 19:08:08]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 19:08:13]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 19:08:32]PDF export completed successfully.
+INFO:root:[User:Nagarjuna][2023-11-07 20:45:26]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 20:45:30]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 20:45:35]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 20:45:40]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 20:45:45]Conersion completed successfully
+ERROR:root:[User:Nagarjuna][2023-11-07 20:45:47]An error occured during conversion:Message: stale element reference: stale element not found
+  (Session info: chrome=119.0.6045.106); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF713CE82B2+55298]
+	(No symbol) [0x00007FF713C55E02]
+	(No symbol) [0x00007FF713B105AB]
+	(No symbol) [0x00007FF713B1509C]
+	(No symbol) [0x00007FF713B16FDF]
+	(No symbol) [0x00007FF713B170D0]
+	(No symbol) [0x00007FF713B5242C]
+	(No symbol) [0x00007FF713B4AD95]
+	(No symbol) [0x00007FF713B720AA]
+	(No symbol) [0x00007FF713B480CF]
+	(No symbol) [0x00007FF713B722C0]
+	(No symbol) [0x00007FF713B8AAA4]
+	(No symbol) [0x00007FF713B71E83]
+	(No symbol) [0x00007FF713B4670A]
+	(No symbol) [0x00007FF713B47964]
+	GetHandleVerifier [0x00007FF714060AAB+3694587]
+	GetHandleVerifier [0x00007FF7140B728E+4048862]
+	GetHandleVerifier [0x00007FF7140AF173+4015811]
+	GetHandleVerifier [0x00007FF713D847D6+695590]
+	(No symbol) [0x00007FF713C60CE8]
+	(No symbol) [0x00007FF713C5CF34]
+	(No symbol) [0x00007FF713C5D062]
+	(No symbol) [0x00007FF713C4D3A3]
+	BaseThreadInitThunk [0x00007FFC6C427344+20]
+	RtlUserThreadStart [0x00007FFC6E4026B1+33]
+
+INFO:root:[User:Nagarjuna][2023-11-07 23:54:57]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 23:55:02]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 23:55:06]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 23:55:11]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 23:55:16]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 23:55:21]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 23:55:26]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 23:55:30]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 23:55:35]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 23:55:39]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 23:55:44]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 23:55:49]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 23:55:53]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 23:55:58]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 23:56:02]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 23:56:07]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 23:56:11]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 23:56:16]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 23:56:21]Conersion completed successfully
+ERROR:root:[User:Nagarjuna][2023-11-07 23:56:21]An error occured during conversion:type object 'LineStyle' has no attribute 'xlCountinuous'
+INFO:root:[User:Nagarjuna][2023-11-07 23:59:49]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 23:59:54]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-07 23:59:58]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:00:03]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:00:08]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:00:13]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:00:17]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:00:22]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:00:27]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:00:31]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:00:36]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:00:41]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:00:45]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:00:50]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:00:54]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:00:59]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:01:04]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:01:08]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:01:13]Conersion completed successfully
+ERROR:root:[User:Nagarjuna][2023-11-08 00:01:13]An error occured during conversion:'int' object has no attribute 'xw'
+INFO:root:[User:Nagarjuna][2023-11-08 00:04:37]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:04:42]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:04:47]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:04:51]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:04:56]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:05:00]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:05:05]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:05:10]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:05:14]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:05:19]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:05:23]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:05:28]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:05:32]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:05:37]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:05:41]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:05:46]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:05:51]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:05:55]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:06:00]Conersion completed successfully
+ERROR:root:[User:Nagarjuna][2023-11-08 00:06:00]An error occured during conversion:Borders.__call__() takes from 1 to 2 positional arguments but 3 were given
+ERROR:root:[User:Nagarjuna][2023-11-08 00:27:21]An error occured during conversion:cannot access local variable 'current_row' where it is not associated with a value
+INFO:root:[User:Nagarjuna][2023-11-08 00:33:40]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:33:45]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:33:49]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:33:54]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:33:59]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:34:04]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:34:09]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:34:13]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:34:18]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:34:22]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:34:27]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:34:32]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:34:36]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:34:41]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:34:46]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:34:50]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:34:55]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:34:59]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 00:35:04]Conersion completed successfully
+ERROR:root:[User:Nagarjuna][2023-11-08 14:50:05]An error occured during conversion:(-2147417848, 'The object invoked has disconnected from its clients.', None, None)
+INFO:root:[User:Nagarjuna][2023-11-08 14:50:38]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 14:50:42]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 14:50:47]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 14:50:52]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 14:50:56]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 14:51:01]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 14:51:05]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 14:51:10]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 14:51:14]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 14:51:19]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 14:51:23]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 14:51:28]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 14:51:32]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 14:51:37]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 14:51:41]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 14:51:46]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 14:51:50]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 14:51:55]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 14:51:59]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 14:52:16]PDF export completed successfully.
+INFO:root:[User:Nagarjuna][2023-11-08 15:33:50]Conersion completed successfully
+ERROR:root:[User:Nagarjuna][2023-11-08 15:33:50]An error occured during conversion:[Errno 13] Permission denied: 'converted currency.xlsx'
+INFO:root:[User:Nagarjuna][2023-11-08 15:34:17]Conersion completed successfully
+ERROR:root:[User:Nagarjuna][2023-11-08 15:34:17]An error occured during conversion:[Errno 13] Permission denied: 'converted currency.xlsx'
+INFO:root:[User:Nagarjuna][2023-11-08 15:35:28]Conersion completed successfully
+ERROR:root:[User:Nagarjuna][2023-11-08 15:35:28]An error occured during conversion:[Errno 13] Permission denied: 'converted currency.xlsx'
+INFO:root:[User:Nagarjuna][2023-11-08 15:37:43]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:37:48]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:37:52]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:37:57]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:38:01]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:38:06]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:38:10]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:38:15]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:38:19]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:38:24]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:38:28]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:38:33]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:38:37]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:38:42]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:38:47]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:38:52]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:38:56]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:39:01]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:39:05]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:45:04]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:45:09]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:45:13]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:45:18]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:45:22]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:45:27]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:45:31]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:45:36]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:45:40]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:45:45]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:45:50]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:45:55]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:45:59]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:46:04]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:46:08]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:46:13]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:46:17]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:46:22]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:46:26]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:50:18]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:50:23]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:50:27]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:50:32]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:50:36]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:50:41]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:50:45]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:50:50]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:50:54]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:50:59]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:51:03]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:51:08]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:51:12]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:51:17]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:51:23]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:51:27]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:51:32]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:51:36]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 15:51:41]Conersion completed successfully
+WARNING:selenium.webdriver.common.selenium_manager:There was an error managing chrome (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json): error trying to connect: dns error: No such host is known. (os error 11001)); using driver found in the cache
+ERROR:root:[User:Nagarjuna][2023-11-08 15:54:39]An error occured during conversion:Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=119.0.6045.106)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C7FC82B2+55298]
+	(No symbol) [0x00007FF6C7F35E02]
+	(No symbol) [0x00007FF6C7DF05AB]
+	(No symbol) [0x00007FF6C7DEC353]
+	(No symbol) [0x00007FF6C7DDF4CC]
+	(No symbol) [0x00007FF6C7DE0714]
+	(No symbol) [0x00007FF6C7DDF8DF]
+	(No symbol) [0x00007FF6C7DDE803]
+	(No symbol) [0x00007FF6C7DDE7A8]
+	(No symbol) [0x00007FF6C7DDCF0E]
+	(No symbol) [0x00007FF6C7DDD803]
+	(No symbol) [0x00007FF6C7DF29BF]
+	(No symbol) [0x00007FF6C7E6AE27]
+	(No symbol) [0x00007FF6C7E520AA]
+	(No symbol) [0x00007FF6C7E6AAA4]
+	(No symbol) [0x00007FF6C7E51E83]
+	(No symbol) [0x00007FF6C7E2670A]
+	(No symbol) [0x00007FF6C7E27964]
+	GetHandleVerifier [0x00007FF6C8340AAB+3694587]
+	GetHandleVerifier [0x00007FF6C839728E+4048862]
+	GetHandleVerifier [0x00007FF6C838F173+4015811]
+	GetHandleVerifier [0x00007FF6C80647D6+695590]
+	(No symbol) [0x00007FF6C7F40CE8]
+	(No symbol) [0x00007FF6C7F3CF34]
+	(No symbol) [0x00007FF6C7F3D062]
+	(No symbol) [0x00007FF6C7F2D3A3]
+	BaseThreadInitThunk [0x00007FFC6C427344+20]
+	RtlUserThreadStart [0x00007FFC6E4026B1+33]
+
+INFO:root:[User:Nagarjuna][2023-11-08 15:55:34]Conersion completed successfully
+ERROR:root:[User:Nagarjuna][2023-11-08 15:55:34]An error occured during conversion:(-2146827864, 'OLE error 0x800a01a8', None, None)
+ERROR:root:[User:Nagarjuna][2023-11-08 15:56:50]An error occured during conversion:(-2147352567, 'Exception occurred.', (0, 'Microsoft Excel', "Excel cannot open the file 'converted currency.xlsx' because the file format or file extension is not valid. Verify that the file has not been corrupted and that the file extension matches the format of the file.", 'xlmain11.chm', 0, -2146827284), None)
+ERROR:root:[User:Nagarjuna][2023-11-08 16:11:15]An error occured during conversion:Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=119.0.6045.106)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C7FC82B2+55298]
+	(No symbol) [0x00007FF6C7F35E02]
+	(No symbol) [0x00007FF6C7DF05AB]
+	(No symbol) [0x00007FF6C7DEC353]
+	(No symbol) [0x00007FF6C7DDF4CC]
+	(No symbol) [0x00007FF6C7DE0714]
+	(No symbol) [0x00007FF6C7DDF8DF]
+	(No symbol) [0x00007FF6C7DDE803]
+	(No symbol) [0x00007FF6C7DDE7A8]
+	(No symbol) [0x00007FF6C7DDCF0E]
+	(No symbol) [0x00007FF6C7DDD803]
+	(No symbol) [0x00007FF6C7DF29BF]
+	(No symbol) [0x00007FF6C7E6AE27]
+	(No symbol) [0x00007FF6C7E520AA]
+	(No symbol) [0x00007FF6C7E6AAA4]
+	(No symbol) [0x00007FF6C7E51E83]
+	(No symbol) [0x00007FF6C7E2670A]
+	(No symbol) [0x00007FF6C7E27964]
+	GetHandleVerifier [0x00007FF6C8340AAB+3694587]
+	GetHandleVerifier [0x00007FF6C839728E+4048862]
+	GetHandleVerifier [0x00007FF6C838F173+4015811]
+	GetHandleVerifier [0x00007FF6C80647D6+695590]
+	(No symbol) [0x00007FF6C7F40CE8]
+	(No symbol) [0x00007FF6C7F3CF34]
+	(No symbol) [0x00007FF6C7F3D062]
+	(No symbol) [0x00007FF6C7F2D3A3]
+	BaseThreadInitThunk [0x00007FFC6C427344+20]
+	RtlUserThreadStart [0x00007FFC6E4026B1+33]
+
+ERROR:root:[User:Nagarjuna][2023-11-08 16:12:03]An error occured during conversion:Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=119.0.6045.106)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C7FC82B2+55298]
+	(No symbol) [0x00007FF6C7F35E02]
+	(No symbol) [0x00007FF6C7DF05AB]
+	(No symbol) [0x00007FF6C7DEC353]
+	(No symbol) [0x00007FF6C7DDF4CC]
+	(No symbol) [0x00007FF6C7DE0714]
+	(No symbol) [0x00007FF6C7DDF8DF]
+	(No symbol) [0x00007FF6C7DDE803]
+	(No symbol) [0x00007FF6C7DDE7A8]
+	(No symbol) [0x00007FF6C7DDCF0E]
+	(No symbol) [0x00007FF6C7DDD803]
+	(No symbol) [0x00007FF6C7DF29BF]
+	(No symbol) [0x00007FF6C7E6AE27]
+	(No symbol) [0x00007FF6C7E520AA]
+	(No symbol) [0x00007FF6C7E6AAA4]
+	(No symbol) [0x00007FF6C7E51E83]
+	(No symbol) [0x00007FF6C7E2670A]
+	(No symbol) [0x00007FF6C7E27964]
+	GetHandleVerifier [0x00007FF6C8340AAB+3694587]
+	GetHandleVerifier [0x00007FF6C839728E+4048862]
+	GetHandleVerifier [0x00007FF6C838F173+4015811]
+	GetHandleVerifier [0x00007FF6C80647D6+695590]
+	(No symbol) [0x00007FF6C7F40CE8]
+	(No symbol) [0x00007FF6C7F3CF34]
+	(No symbol) [0x00007FF6C7F3D062]
+	(No symbol) [0x00007FF6C7F2D3A3]
+	BaseThreadInitThunk [0x00007FFC6C427344+20]
+	RtlUserThreadStart [0x00007FFC6E4026B1+33]
+
+INFO:root:[User:Nagarjuna][2023-11-08 16:12:55]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:12:59]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:13:04]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:13:08]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:13:13]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:13:18]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:13:22]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:13:26]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:13:31]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:13:35]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:13:40]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:13:45]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:13:49]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:13:54]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:13:58]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:16:19]PDF export completed successfully.
+INFO:root:[User:Nagarjuna][2023-11-08 16:42:51]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:42:56]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:43:00]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:43:05]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:43:09]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:43:14]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:43:18]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:43:23]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:43:27]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:43:32]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:43:36]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:43:41]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:43:45]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:43:50]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:43:55]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:46:25]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:46:29]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:46:34]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:46:38]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:46:43]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:46:48]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:46:52]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:46:57]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:47:01]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:47:06]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:47:10]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:47:15]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:47:19]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:47:23]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:47:28]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:49:58]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:50:02]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:50:07]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:50:11]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:50:16]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:50:20]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:50:25]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:50:29]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:50:34]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:50:38]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:50:43]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:50:47]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:50:52]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:50:56]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:51:01]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:58:49]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:58:53]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:58:58]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:59:02]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:59:07]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:59:11]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:59:16]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:59:20]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:59:25]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:59:29]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:59:34]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:59:38]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:59:43]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:59:47]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 16:59:52]Conersion completed successfully
+ERROR:root:[User:Nagarjuna][2023-11-08 17:00:07]An error occurred during PDF export:(-2147352567, 'Exception occurred.', (0, 'Microsoft Excel', "Excel cannot open the file 'converted currency.xlsx' because the file format or file extension is not valid. Verify that the file has not been corrupted and that the file extension matches the format of the file.", 'xlmain11.chm', 0, -2146827284), None)
+ERROR:root:[User:Nagarjuna][2023-11-08 17:08:35]An error occured during conversion:Message: stale element reference: stale element not found
+  (Session info: chrome=119.0.6045.106); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C7FC82B2+55298]
+	(No symbol) [0x00007FF6C7F35E02]
+	(No symbol) [0x00007FF6C7DF05AB]
+	(No symbol) [0x00007FF6C7DF509C]
+	(No symbol) [0x00007FF6C7DF6FDF]
+	(No symbol) [0x00007FF6C7DF70D0]
+	(No symbol) [0x00007FF6C7E2A22B]
+	(No symbol) [0x00007FF6C7E520AA]
+	(No symbol) [0x00007FF6C7E280CF]
+	(No symbol) [0x00007FF6C7E522C0]
+	(No symbol) [0x00007FF6C7E6AAA4]
+	(No symbol) [0x00007FF6C7E51E83]
+	(No symbol) [0x00007FF6C7E2670A]
+	(No symbol) [0x00007FF6C7E27964]
+	GetHandleVerifier [0x00007FF6C8340AAB+3694587]
+	GetHandleVerifier [0x00007FF6C839728E+4048862]
+	GetHandleVerifier [0x00007FF6C838F173+4015811]
+	GetHandleVerifier [0x00007FF6C80647D6+695590]
+	(No symbol) [0x00007FF6C7F40CE8]
+	(No symbol) [0x00007FF6C7F3CF34]
+	(No symbol) [0x00007FF6C7F3D062]
+	(No symbol) [0x00007FF6C7F2D3A3]
+	BaseThreadInitThunk [0x00007FFC6C427344+20]
+	RtlUserThreadStart [0x00007FFC6E4026B1+33]
+
+ERROR:root:[User:Nagarjuna][2023-11-08 17:09:20]An error occured during conversion:Message: stale element reference: stale element not found
+  (Session info: chrome=119.0.6045.106); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C7FC82B2+55298]
+	(No symbol) [0x00007FF6C7F35E02]
+	(No symbol) [0x00007FF6C7DF05AB]
+	(No symbol) [0x00007FF6C7DF509C]
+	(No symbol) [0x00007FF6C7DF6FDF]
+	(No symbol) [0x00007FF6C7DF70D0]
+	(No symbol) [0x00007FF6C7E3242C]
+	(No symbol) [0x00007FF6C7E32542]
+	(No symbol) [0x00007FF6C7E2BC6B]
+	(No symbol) [0x00007FF6C7E520AA]
+	(No symbol) [0x00007FF6C7E280CF]
+	(No symbol) [0x00007FF6C7E522C0]
+	(No symbol) [0x00007FF6C7E6AAA4]
+	(No symbol) [0x00007FF6C7E51E83]
+	(No symbol) [0x00007FF6C7E2670A]
+	(No symbol) [0x00007FF6C7E27964]
+	GetHandleVerifier [0x00007FF6C8340AAB+3694587]
+	GetHandleVerifier [0x00007FF6C839728E+4048862]
+	GetHandleVerifier [0x00007FF6C838F173+4015811]
+	GetHandleVerifier [0x00007FF6C80647D6+695590]
+	(No symbol) [0x00007FF6C7F40CE8]
+	(No symbol) [0x00007FF6C7F3CF34]
+	(No symbol) [0x00007FF6C7F3D062]
+	(No symbol) [0x00007FF6C7F2D3A3]
+	BaseThreadInitThunk [0x00007FFC6C427344+20]
+	RtlUserThreadStart [0x00007FFC6E4026B1+33]
+
+ERROR:root:[User:Nagarjuna][2023-11-08 17:11:04]An error occured during conversion:Message: stale element reference: stale element not found
+  (Session info: chrome=119.0.6045.106); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C7FC82B2+55298]
+	(No symbol) [0x00007FF6C7F35E02]
+	(No symbol) [0x00007FF6C7DF05AB]
+	(No symbol) [0x00007FF6C7DF509C]
+	(No symbol) [0x00007FF6C7DF6FDF]
+	(No symbol) [0x00007FF6C7DF70D0]
+	(No symbol) [0x00007FF6C7E3242C]
+	(No symbol) [0x00007FF6C7E32542]
+	(No symbol) [0x00007FF6C7E2AC3B]
+	(No symbol) [0x00007FF6C7E520AA]
+	(No symbol) [0x00007FF6C7E280CF]
+	(No symbol) [0x00007FF6C7E522C0]
+	(No symbol) [0x00007FF6C7E6AAA4]
+	(No symbol) [0x00007FF6C7E51E83]
+	(No symbol) [0x00007FF6C7E2670A]
+	(No symbol) [0x00007FF6C7E27964]
+	GetHandleVerifier [0x00007FF6C8340AAB+3694587]
+	GetHandleVerifier [0x00007FF6C839728E+4048862]
+	GetHandleVerifier [0x00007FF6C838F173+4015811]
+	GetHandleVerifier [0x00007FF6C80647D6+695590]
+	(No symbol) [0x00007FF6C7F40CE8]
+	(No symbol) [0x00007FF6C7F3CF34]
+	(No symbol) [0x00007FF6C7F3D062]
+	(No symbol) [0x00007FF6C7F2D3A3]
+	BaseThreadInitThunk [0x00007FFC6C427344+20]
+	RtlUserThreadStart [0x00007FFC6E4026B1+33]
+
+ERROR:root:[User:Nagarjuna][2023-11-08 17:13:44]An error occured during conversion:Message: stale element reference: stale element not found
+  (Session info: chrome=119.0.6045.106); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C7FC82B2+55298]
+	(No symbol) [0x00007FF6C7F35E02]
+	(No symbol) [0x00007FF6C7DF05AB]
+	(No symbol) [0x00007FF6C7DF509C]
+	(No symbol) [0x00007FF6C7DF6FDF]
+	(No symbol) [0x00007FF6C7DF70D0]
+	(No symbol) [0x00007FF6C7E33265]
+	(No symbol) [0x00007FF6C7E28586]
+	(No symbol) [0x00007FF6C7E520AA]
+	(No symbol) [0x00007FF6C7E280CF]
+	(No symbol) [0x00007FF6C7E522C0]
+	(No symbol) [0x00007FF6C7E6AAA4]
+	(No symbol) [0x00007FF6C7E51E83]
+	(No symbol) [0x00007FF6C7E2670A]
+	(No symbol) [0x00007FF6C7E27964]
+	GetHandleVerifier [0x00007FF6C8340AAB+3694587]
+	GetHandleVerifier [0x00007FF6C839728E+4048862]
+	GetHandleVerifier [0x00007FF6C838F173+4015811]
+	GetHandleVerifier [0x00007FF6C80647D6+695590]
+	(No symbol) [0x00007FF6C7F40CE8]
+	(No symbol) [0x00007FF6C7F3CF34]
+	(No symbol) [0x00007FF6C7F3D062]
+	(No symbol) [0x00007FF6C7F2D3A3]
+	BaseThreadInitThunk [0x00007FFC6C427344+20]
+	RtlUserThreadStart [0x00007FFC6E4026B1+33]
+
+INFO:root:[User:Nagarjuna][2023-11-08 17:14:44]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:14:50]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:14:55]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:15:01]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:15:07]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:15:12]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:15:18]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:15:23]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:15:29]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:15:34]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:15:40]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:15:45]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:15:51]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:15:56]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:16:02]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:16:07]PDF export completed successfully.
+INFO:root:[User:Nagarjuna][2023-11-08 17:21:50]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:21:56]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:22:01]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:22:07]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:22:12]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:22:18]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:22:23]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:22:29]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:22:34]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:22:40]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:22:46]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:22:51]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:22:57]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:23:02]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:23:08]Conersion completed successfully
+ERROR:root:[User:Nagarjuna][2023-11-08 17:23:59]An error occurred during PDF export:(-2147352567, 'Exception occurred.', (0, 'Microsoft Excel', 'Document not saved.', 'xlmain11.chm', 0, -2147018887), None)
+INFO:root:[User:Nagarjuna][2023-11-08 17:24:26]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:24:31]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:24:37]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:24:43]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:24:48]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:24:54]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:24:59]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:25:05]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:25:10]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:25:16]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:25:21]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:25:27]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:25:32]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:25:38]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:25:43]Conersion completed successfully
+ERROR:root:[User:Nagarjuna][2023-11-08 17:25:56]An error occurred during PDF export:(-2147352567, 'Exception occurred.', (0, 'Microsoft Excel', 'Document not saved.', 'xlmain11.chm', 0, -2147018887), None)
+INFO:root:[User:Nagarjuna][2023-11-08 17:27:59]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:28:05]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:28:10]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:28:16]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:28:22]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:28:27]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:28:33]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:28:38]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:28:44]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:28:49]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:28:55]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:29:00]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:29:06]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:29:11]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:29:17]Conersion completed successfully
+ERROR:root:[User:Nagarjuna][2023-11-08 17:29:59]An error occurred during PDF export:(-2147352567, 'Exception occurred.', (0, 'Microsoft Excel', 'Document not saved.', 'xlmain11.chm', 0, -2147018887), None)
+INFO:root:[User:Nagarjuna][2023-11-08 17:31:49]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:31:55]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:32:01]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:32:06]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:32:12]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:32:17]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:32:23]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:32:28]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:32:34]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:32:40]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:32:45]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:32:51]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:32:56]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:33:02]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:33:07]Conersion completed successfully
+ERROR:root:[User:Nagarjuna][2023-11-08 17:33:13]An error occurred during PDF export:(-2147352567, 'Exception occurred.', (0, 'Microsoft Excel', 'Document not saved.', 'xlmain11.chm', 0, -2147018887), None)
+INFO:root:[User:Nagarjuna][2023-11-08 17:39:37]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:39:43]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:39:48]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:39:54]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:39:59]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:40:05]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:40:10]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:40:16]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:40:21]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:40:27]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:40:32]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:40:38]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:40:43]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:40:49]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:40:55]Conersion completed successfully
+ERROR:root:[User:Nagarjuna][2023-11-08 17:41:02]An error occurred during PDF export:(-2147352567, 'Exception occurred.', (0, 'Microsoft Excel', 'Document not saved.', 'xlmain11.chm', 0, -2147018887), None)
+ERROR:root:[User:Nagarjuna][2023-11-08 17:47:48]An error occurred during PDF export:(-2147352567, 'Exception occurred.', (0, 'Microsoft Excel', 'Document not saved.', 'xlmain11.chm', 0, -2147018887), None)
+INFO:root:[User:Nagarjuna][2023-11-08 17:50:50]PDF export completed successfully.
+INFO:root:[User:Nagarjuna][2023-11-08 17:54:43]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:54:48]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:54:52]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:54:57]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:55:01]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:55:06]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:55:10]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:55:15]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:55:19]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:55:24]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:55:28]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:55:33]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:55:37]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:55:42]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:55:46]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-08 17:56:11]PDF export completed successfully.
+ERROR:root:[User:Nagarjuna][2023-11-16 12:23:44]An error occured during conversion:Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=119.0.6045.125)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B36282B2+55298]
+	(No symbol) [0x00007FF6B3595E02]
+	(No symbol) [0x00007FF6B34505AB]
+	(No symbol) [0x00007FF6B344C353]
+	(No symbol) [0x00007FF6B343F4CC]
+	(No symbol) [0x00007FF6B3440714]
+	(No symbol) [0x00007FF6B343F8DF]
+	(No symbol) [0x00007FF6B343E803]
+	(No symbol) [0x00007FF6B343E7A8]
+	(No symbol) [0x00007FF6B343CF0E]
+	(No symbol) [0x00007FF6B343D803]
+	(No symbol) [0x00007FF6B34529BF]
+	(No symbol) [0x00007FF6B34CAE27]
+	(No symbol) [0x00007FF6B34B20AA]
+	(No symbol) [0x00007FF6B34CAAA4]
+	(No symbol) [0x00007FF6B34B1E83]
+	(No symbol) [0x00007FF6B348670A]
+	(No symbol) [0x00007FF6B3487964]
+	GetHandleVerifier [0x00007FF6B39A0AAB+3694587]
+	GetHandleVerifier [0x00007FF6B39F728E+4048862]
+	GetHandleVerifier [0x00007FF6B39EF173+4015811]
+	GetHandleVerifier [0x00007FF6B36C47D6+695590]
+	(No symbol) [0x00007FF6B35A0CE8]
+	(No symbol) [0x00007FF6B359CF34]
+	(No symbol) [0x00007FF6B359D062]
+	(No symbol) [0x00007FF6B358D3A3]
+	BaseThreadInitThunk [0x00007FFC6C427344+20]
+	RtlUserThreadStart [0x00007FFC6E4026B1+33]
+
+INFO:root:[User:Nagarjuna][2023-11-16 12:28:24]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-16 12:28:28]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-16 12:28:33]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-16 12:28:37]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-16 12:28:42]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-16 12:28:47]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-16 12:28:51]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-16 12:28:56]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-16 12:29:00]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-16 12:29:05]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-16 12:29:09]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-16 12:29:14]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-16 12:29:18]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-16 12:29:23]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-16 12:29:27]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-16 12:30:08]PDF export completed successfully.
+INFO:root:[User:Nagarjuna][2023-11-22 12:48:05]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-22 12:48:10]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-22 12:48:15]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-22 12:48:19]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-22 12:48:24]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-22 12:48:28]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-22 12:48:33]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-22 12:48:38]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-22 12:48:42]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-22 12:48:47]Conersion completed successfully
+ERROR:root:[User:Nagarjuna][2023-11-22 12:48:48]An error occured during conversion:Message: stale element reference: stale element not found
+  (Session info: chrome=119.0.6045.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7ABEE82B2+55298]
+	(No symbol) [0x00007FF7ABE55E02]
+	(No symbol) [0x00007FF7ABD105AB]
+	(No symbol) [0x00007FF7ABD1509C]
+	(No symbol) [0x00007FF7ABD16FDF]
+	(No symbol) [0x00007FF7ABD170D0]
+	(No symbol) [0x00007FF7ABD53265]
+	(No symbol) [0x00007FF7ABD48586]
+	(No symbol) [0x00007FF7ABD720AA]
+	(No symbol) [0x00007FF7ABD480CF]
+	(No symbol) [0x00007FF7ABD722C0]
+	(No symbol) [0x00007FF7ABD8AAA4]
+	(No symbol) [0x00007FF7ABD71E83]
+	(No symbol) [0x00007FF7ABD4670A]
+	(No symbol) [0x00007FF7ABD47964]
+	GetHandleVerifier [0x00007FF7AC260AAB+3694587]
+	GetHandleVerifier [0x00007FF7AC2B728E+4048862]
+	GetHandleVerifier [0x00007FF7AC2AF173+4015811]
+	GetHandleVerifier [0x00007FF7ABF847D6+695590]
+	(No symbol) [0x00007FF7ABE60CE8]
+	(No symbol) [0x00007FF7ABE5CF34]
+	(No symbol) [0x00007FF7ABE5D062]
+	(No symbol) [0x00007FF7ABE4D3A3]
+	BaseThreadInitThunk [0x00007FF909287344+20]
+	RtlUserThreadStart [0x00007FF9093C26B1+33]
+
+INFO:root:[User:Nagarjuna][2023-11-22 12:50:46]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-22 12:50:50]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-22 12:50:55]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-22 12:50:59]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-22 12:51:04]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-22 12:51:08]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-22 12:51:13]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-22 12:51:18]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-22 12:51:22]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-22 12:51:27]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-22 12:51:31]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-22 12:51:36]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-22 12:51:41]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-22 12:51:45]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-22 12:51:50]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2023-11-22 12:54:23]PDF export completed successfully.
+INFO:root:[User:Nagarjuna][2024-09-19 10:45:53]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2024-09-19 10:45:57]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2024-09-19 10:46:03]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2024-09-19 10:46:08]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2024-09-19 10:46:13]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2024-09-19 10:46:18]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2024-09-19 10:46:23]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2024-09-19 10:46:28]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2024-09-19 10:46:33]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2024-09-19 10:46:37]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2024-09-19 10:46:43]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2024-09-19 10:46:48]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2024-09-19 10:46:53]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2024-09-19 10:46:58]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2024-09-19 10:47:03]Conersion completed successfully
+INFO:root:[User:Nagarjuna][2024-09-19 10:47:15]PDF export completed successfully.
